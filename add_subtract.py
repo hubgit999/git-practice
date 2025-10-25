@@ -34,5 +34,9 @@ def simple_calculator():
     else:
         # 处理无效的操作符输入
         print("错误：操作符无效。请使用 '+' 或 '-'。")
+<<<<<<< Updated upstream
 
 # 注意：为了避免在导入时自动运行，我们把最后一行调用 simple_calculator() 删掉了。
+# 如果您在原文件中保留了 simple_calculator()，那么在导入时，它也会被自动执行一次。
+=======
+>>>>>>> Stashed changes
